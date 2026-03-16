@@ -4,22 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6b27ff1-7b1c-426f-ab1e-9268b543fc7c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PhoneBook_MVC_Test.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/contact-book.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/contact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/contactbook.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/controller.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/loadfile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/run.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/book/view.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_book.py" afterDir="false" />
+    <list default="true" id="d6b27ff1-7b1c-426f-ab1e-9268b543fc7c" name="Changes" comment="first test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AlexDuhanin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AlexDuhanin/PhoneBook_MVC_Test.git&quot;,
+    &quot;accountId&quot;: &quot;540466b4-6f5e-413d-ba94-edc78b6b908d&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -103,6 +101,19 @@
       <option name="presentableId" value="Default" />
       <updated>1773678298631</updated>
     </task>
+    <task id="LOCAL-00001" summary="first test">
+      <option name="closed" value="true" />
+      <created>1773686983679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773686983679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first test" />
+    <option name="LAST_COMMIT_MESSAGE" value="first test" />
   </component>
 </project>
